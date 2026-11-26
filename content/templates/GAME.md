@@ -10,7 +10,7 @@ description:
 > ![Обложка игры](обложка)
 
 > [!badges]
-> > [!badge-easy] 👥
+> > [!badge-green] 👥
 > > 1-5 игроков
 >
 > > [!badge-orange] ⏳
