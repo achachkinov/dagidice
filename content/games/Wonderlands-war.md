@@ -8,12 +8,12 @@ tags:
   - на-3-5
   - подумать
 type: game
-image_url: /static/covers/Wonderlands-war.jpg
+image_url: ../static/covers/Wonderlands-war.jpg
 description: Яркая стратегия с построением мешка и контролем территорий по мрачной версии «Алисы в Стране чудес» («Война в Стране чудес»). Игроки возглавляют безумных лидеров, пьют чай на чаепитии Безумного Шляпника для сбора жетонов союзников, а затем сражаются за регионы, вытягивая фишки из мешка.
 ---
 
 > [!cover]
-> ![Обложка игры](/static/covers/Wonderlands-war.jpg)
+> ![Обложка игры](../static/covers/Wonderlands-war.jpg)
 
 > [!badges]
 > > [!badge-orange] 👥

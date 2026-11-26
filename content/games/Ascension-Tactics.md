@@ -8,12 +8,12 @@ tags:
   - на-3-5
   - подумать
 type: game
-image_url: /static/covers/Ascension-Tactics.webp
+image_url: ../static/covers/Ascension-Tactics.webp
 description: Гибрид классической колодостроительной игры Ascension и тактического варгейма с миниатюрами. Игроки покупают карты с общего рынка, нанимают чемпионов на гексагональную арену, перемещают бойцов и сражаются за контроль над святилищами.
 ---
 
 > [!cover]
-> ![Обложка игры](/static/covers/Ascension-Tactics.webp)
+> ![Обложка игры](../static/covers/Ascension-Tactics.webp)
 
 > [!badges]
 > > [!badge-green] 👥

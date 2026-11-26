@@ -7,12 +7,12 @@ tags:
   - подумать
   - логика-и-головоломки
 type: game
-image_url: /static/covers/Pixel-Tactics-3.jpg
+image_url: ../static/covers/Pixel-Tactics-3.jpg
 description: Третья часть пиксельной тактической дуэли с новыми отрядами и способностями. Игроки выстраивают боевой порядок и разыгрывают карты, чтобы перехитрить и одолеть лидера соперника.
 ---
 
 > [!cover]
-> ![Обложка игры](/static/covers/Pixel-Tactics-3.jpg)
+> ![Обложка игры](../static/covers/Pixel-Tactics-3.jpg)
 
 > [!badges]
 > > [!badge-green] 👥

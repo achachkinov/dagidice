@@ -7,12 +7,12 @@ tags:
   - подумать
   - логика-и-головоломки
 type: game
-image_url: /static/covers/Pixel-Tactics-Legends.jpg
+image_url: ../static/covers/Pixel-Tactics-Legends.jpg
 description: Самостоятельный набор серии дуэльных карточных сражений с пиксельными армиями. В коробке собраны мини-дополнения Seven Sisters, Price of Victory и Argent University, а также переработанные знакомые герои.
 ---
 
 > [!cover]
-> ![Обложка игры](/static/covers/Pixel-Tactics-Legends.jpg)
+> ![Обложка игры](../static/covers/Pixel-Tactics-Legends.jpg)
 
 > [!badges]
 > > [!badge-green] 👥

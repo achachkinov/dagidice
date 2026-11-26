@@ -8,12 +8,12 @@ tags:
   - подумать
   - популярное
 type: game
-image_url: /static/covers/Civilization-Новый-рассвет.jpg
+image_url: ../static/covers/Civilization-Новый-рассвет.jpg
 description: Стратегическая игра по мотивам компьютерной Civilization, построенная на модульном поле и развитии державы. Игроки исследуют земли, основывают города, развивают науку и культуру, строят чудеса света и ведут дипломатию или войны, чтобы первыми выполнить условия победы.
 ---
 
 > [!cover]
-> ![Обложка игры](/static/covers/Civilization-Новый-рассвет.jpg)
+> ![Обложка игры](../static/covers/Civilization-Новый-рассвет.jpg)
 
 > [!badges]
 > > [!badge-green] 👥

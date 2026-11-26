@@ -7,12 +7,12 @@ tags:
   - быстрые-партии
   - на-3-5
 type: game
-image_url: /static/covers/Eight-Minute-Empire.jpg
+image_url: ../static/covers/Eight-Minute-Empire.jpg
 description: Компактная стратегия о расширении империи всего за несколько раундов. Игроки набирают войска и флот, захватывают новые земли, собирают ресурсы и стремятся набрать больше всех победных очков, успевая реагировать на ходы соперников на общей карте.
 ---
 
 > [!cover]
-> ![Обложка игры](/static/covers/Eight-Minute-Empire.jpg)
+> ![Обложка игры](../static/covers/Eight-Minute-Empire.jpg)
 
 > [!badges]
 > > [!badge-orange] 👥
