@@ -9,12 +9,12 @@ tags:
   - популярное
   - для-старта
 type: game
-image_url: https://hobbygames.ru/image/cache/hobbygames_beta/data/Hasbro/Cluedo/Cludeo_new-1980x1980-wm.webp
+image_url: /static/covers/Cluedo.webp
 description: Классический детективный бестселлер на дедукцию и исключение улик. Игроки перемещаются по комнатам старинного особняка, выдвигают версии и обмениваются подсказками, чтобы первыми выяснить, кто из гостей совершил преступление, каким орудием и в какой комнате.
 ---
 
 > [!cover]
-> ![Обложка игры](https://hobbygames.ru/image/cache/hobbygames_beta/data/Hasbro/Cluedo/Cludeo_new-1980x1980-wm.webp)
+> ![Обложка игры](/static/covers/Cluedo.webp)
 
 > [!badges]
 > > [!badge-orange] 👥

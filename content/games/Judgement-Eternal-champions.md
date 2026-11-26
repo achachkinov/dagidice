@@ -7,12 +7,12 @@ tags:
   - контроль-территорий
   - подумать
 type: game
-image_url: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbT6Oh1_M2CgWwb3oooZc9d8ixp-rQAhNJvxT1blXTUJhoqtEGGO2K83vZ&s=10
+image_url: /static/covers/Judgement-Eternal-champions.jpg
 description: Динамичный тактический скирмиш с миниатюрами в духе MOBA-игр. Два игрока собирают отряды из уникальных героев с разнообразными умениями, сражаются на арене, захватывают святилища, собирают души и прокачивают персонажей прямо во время боя.
 ---
 
 > [!cover]
-> ![Обложка игры](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbT6Oh1_M2CgWwb3oooZc9d8ixp-rQAhNJvxT1blXTUJhoqtEGGO2K83vZ&s=10)
+> ![Обложка игры](/static/covers/Judgement-Eternal-champions.jpg)
 
 > [!badges]
 > > [!badge-green] 👥

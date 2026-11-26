@@ -8,12 +8,12 @@ tags:
   - на-3-5
   - подумать
 type: game
-image_url: https://tesera.ru/images/items/1290964,3/1000x1000xpa/photo1.jpg
+image_url: /static/covers/GEN7.jpg
 description: Кооперативная кампания-легаси о команде колонистов на борту корабля поколений, где общая миссия соседствует с личными тайными целями и моральными выборами «перекрёстков». Каждая партия продолжает историю и меняет дальнейшие сценарии.
 ---
 
 > [!cover]
-> ![Обложка игры](https://tesera.ru/images/items/1290964,3/1000x1000xpa/photo1.jpg)
+> ![Обложка игры](/static/covers/GEN7.jpg)
 
 > [!badges]
 > > [!badge-green] 👥

@@ -10,12 +10,12 @@ tags:
   - на-3-5
   - подумать
 type: game
-image_url: https://www.wog.ch/nas/cover_large/gs/gs_andromedasedge.jpg
+image_url: /static/covers/Andromedas-edge.webp
 description: Масштабная космическая стратегия на краю туманности Андромеды. Игроки возглавляют асимметричные фракции, отправляют звездолёты на неизведанные планеты, строят орбитальные модули, сражаются с космическими рейдерами и развивают свой планшет-движок.
 ---
 
 > [!cover]
-> ![Обложка игры](https://www.wog.ch/nas/cover_large/gs/gs_andromedasedge.jpg)
+> ![Обложка игры](/static/covers/Andromedas-edge.webp)
 
 > [!badges]
 > > [!badge-orange] 👥

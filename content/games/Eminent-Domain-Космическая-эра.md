@@ -6,12 +6,12 @@ tags:
   - на-3-5
   - подумать
 type: game
-image_url: https://hobbygames.ru/image/data/HobbyWorld/Eminent_Domain/Eminent_Domain_3D_box.jpg
+image_url: /static/covers/Eminent-Domain-Космическая-эра.jpg
 description: Научно-фантастическая стратегия на колодостроении и освоении галактики. Игроки развивают молодую цивилизацию через карты действий — исследуют планеты, колонизируют их, ведут торговлю, производят ресурсы и строят флот, соревнуясь за влияние и победные очки.
 ---
 
 > [!cover]
-> ![Обложка игры](https://hobbygames.ru/image/data/HobbyWorld/Eminent_Domain/Eminent_Domain_3D_box.jpg)
+> ![Обложка игры](/static/covers/Eminent-Domain-Космическая-эра.jpg)
 
 > [!badges]
 > > [!badge-green] 👥

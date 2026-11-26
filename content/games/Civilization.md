@@ -8,12 +8,12 @@ tags:
   - подумать
   - популярное
 type: game
-image_url: https://hobbygames.ru/image/cache/hobbygames_beta/hg/3/2/32457-1980x1980-wm.webp
+image_url: /static/covers/Civilization.webp
 description: Настольная глобальная стратегия по мотивам культовой компьютерной серии Сида Мейера. Игроки возглавляют великие державы, исследуют карту, основывают города, развивают науку, культуру, экономику и военную мощь, чтобы первыми выполнить три ключевые цели.
 ---
 
 > [!cover]
-> ![Обложка игры](https://hobbygames.ru/image/cache/hobbygames_beta/hg/3/2/32457-1980x1980-wm.webp)
+> ![Обложка игры](/static/covers/Civilization.webp)
 
 > [!badges]
 > > [!badge-green] 👥

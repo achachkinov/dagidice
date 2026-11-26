@@ -8,12 +8,12 @@ tags:
   - на-3-5
   - подумать
 type: game
-image_url: https://hobbygames.ru/image/cache/hobbygames_beta/data/HobbyWorld/Runebound_3ed/Runebound_3ed_3D_roznica-1000x416-wm.webp
+image_url: /static/covers/Runebound.webp
 description: Классическое фэнтезийное приключение в открытом мире Терринота. Герои путешествуют по землям, выполняют задания, сражаются с монстрами с помощью уникальных боевых жетонов, покупают снаряжение в городах и готовятся к финальной битве с могущественным злодеем.
 ---
 
 > [!cover]
-> ![Обложка игры](https://hobbygames.ru/image/cache/hobbygames_beta/data/HobbyWorld/Runebound_3ed/Runebound_3ed_3D_roznica-1000x416-wm.webp)
+> ![Обложка игры](/static/covers/Runebound.webp)
 
 > [!badges]
 > > [!badge-green] 👥

@@ -8,12 +8,12 @@ tags:
   - подумать
   - быстрые-партии
 type: game
-image_url: https://hobbygames.ru/image/cache/hobbygames_beta/data/-new/lavka-games/radlands/zemlya-ruin/radlands-zemlya-ruin-00-1000x416-wm.webp
+image_url: /static/covers/Radlands.webp
 description: Динамичная дуэльная карточная стратегия в ярком постапокалиптическом сеттинге. Игроки защищают три своих лагеря, выставляют бойцов на три линии фронта, берегут воду как главный ресурс и разыгрывают разрушительные события, чтобы уничтожить базы соперника.
 ---
 
 > [!cover]
-> ![Обложка игры](https://hobbygames.ru/image/cache/hobbygames_beta/data/-new/lavka-games/radlands/zemlya-ruin/radlands-zemlya-ruin-00-1000x416-wm.webp)
+> ![Обложка игры](/static/covers/Radlands.webp)
 
 > [!badges]
 > > [!badge-green] 👥

@@ -9,12 +9,12 @@ tags:
   - на-3-5
   - подумать
 type: game
-image_url: https://hobbygames.ru/image/cache/hobbygames_beta/data/Zvezda/Cowboy_Bebop/HG/Cowboy_Bebop-1000x416-wm.webp
+image_url: /static/covers/Cowboy-bebop.webp
 description: Кооперативная колодостроительная игра по мотивам культового космического аниме «Ковбой Бибоп». Игроки берут на себя роли Спайка, Джета, Фэй и Эда, летают между планетами Солнечной системы, прокачивают колоды навыков и вместе охотятся за опасными преступниками.
 ---
 
 > [!cover]
-> ![Обложка игры](https://hobbygames.ru/image/cache/hobbygames_beta/data/Zvezda/Cowboy_Bebop/HG/Cowboy_Bebop-1000x416-wm.webp)
+> ![Обложка игры](/static/covers/Cowboy-bebop.webp)
 
 > [!badges]
 > > [!badge-green] 👥

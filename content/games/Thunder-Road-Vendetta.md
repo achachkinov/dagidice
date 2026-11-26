@@ -8,12 +8,12 @@ tags:
   - на-3-5
   - посмеяться
 type: game
-image_url: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdrQypAXN-npMQKRXLTlXx9vCePwE_nLj9FrU4GGGp5shv-1CGjtdQ-Maa&s=10
+image_url: /static/covers/Thunder-Road-Vendetta.jpg
 description: Безумные и кинематографичные гонки на выживание в духе «Безумного Макса» («Дорога ярости - Вендетта»). Игроки управляют отрядами вооружённых машин, бросают кубики, таранят соперников, уворачиваются от минных полей, вызывают вертолётную поддержку и мчатся к финишу.
 ---
 
 > [!cover]
-> ![Обложка игры](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdrQypAXN-npMQKRXLTlXx9vCePwE_nLj9FrU4GGGp5shv-1CGjtdQ-Maa&s=10)
+> ![Обложка игры](/static/covers/Thunder-Road-Vendetta.jpg)
 
 > [!badges]
 > > [!badge-green] 👥

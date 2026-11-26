@@ -7,12 +7,12 @@ tags:
   - на-3-5
   - подумать
 type: game
-image_url: https://hobbygames.ru/image/cache/hobbygames_beta/data/Choo_Choo_Games/La_Cosa_Nostra/hg/la_cosa_nostra-1000x416-wm.webp
+image_url: /static/covers/La-Cosa-nostra.webp
 description: Жёсткая криминальная игра на дипломатию, сделки и предательства. Игроки возглавляют мафиозные семьи, нанимают гангстеров, проворачивают тёмные делишки, заключают временные союзы и блефуют, чтобы отмыть больше всех денег к концу четвёртого раунда.
 ---
 
 > [!cover]
-> ![Обложка игры](https://hobbygames.ru/image/cache/hobbygames_beta/data/Choo_Choo_Games/La_Cosa_Nostra/hg/la_cosa_nostra-1000x416-wm.webp)
+> ![Обложка игры](/static/covers/La-Cosa-nostra.webp)
 
 > [!badges]
 > > [!badge-orange] 👥

@@ -7,12 +7,12 @@ tags:
   - на-3-5
   - посмеяться
 type: game
-image_url: https://tesera.ru/images/items/6974,3/1000x1000xpa/photo1.jpg
+image_url: /static/covers/Galaxy-Trucker.jpg
 description: Хаотичная и весёлая игра о сборке космических грузовиков в реальном времени. Игроки на скорость строят корабли из тайлов, а затем отправляются в опасные рейсы, где метеориты, пираты и неудачные стыки деталей испытывают их творения на прочность.
 ---
 
 > [!cover]
-> ![Обложка игры](https://tesera.ru/images/items/6974,3/1000x1000xpa/photo1.jpg)
+> ![Обложка игры](/static/covers/Galaxy-Trucker.jpg)
 
 > [!badges]
 > > [!badge-green] 👥

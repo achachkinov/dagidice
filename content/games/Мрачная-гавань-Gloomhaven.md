@@ -10,12 +10,12 @@ tags:
   - подумать
   - асимметричная
 type: game
-image_url: https://hobbygames.ru/image/cache/hobbygames_beta/data/HobbyWorld/Gloomhaven/Gloomhaven_mrachnaja-gavan_3D_roznica-1000x416-wm.webp
+image_url: /static/covers/Мрачная-гавань-Gloomhaven.webp
 description: Легендарная кооперативная тактическая RPG в суровом фэнтезийном мире. Отряд наёмников исследует подземелья, сражается с монстрами при помощи карточной боевой системы без кубиков, открывает запечатанные конверты и меняет мир игры по ходу огромной сюжетной кампании.
 ---
 
 > [!cover]
-> ![Обложка игры](https://hobbygames.ru/image/cache/hobbygames_beta/data/HobbyWorld/Gloomhaven/Gloomhaven_mrachnaja-gavan_3D_roznica-1000x416-wm.webp)
+> ![Обложка игры](/static/covers/Мрачная-гавань-Gloomhaven.webp)
 
 > [!badges]
 > > [!badge-green] 👥

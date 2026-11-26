@@ -7,12 +7,12 @@ tags:
   - соло
   - творческая
 type: game
-image_url: https://tesera.ru/images/items/2455326,3/1000x1000xpa/photo1.png
+image_url: /static/covers/Ji-so-gi.png
 description: Евро с размещением рабочих, где вы управляете аниме-студией и собираете из трёх частей сценария оригинальное аниме, соревнуясь за тренды и популярность. Название отсылает к японскому выражению о бизнесе, который едва держится на плаву.
 ---
 
 > [!cover]
-> ![Обложка игры](https://tesera.ru/images/items/2455326,3/1000x1000xpa/photo1.png)
+> ![Обложка игры](/static/covers/Ji-so-gi.png)
 
 > [!badges]
 > > [!badge-green] 👥

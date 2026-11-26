@@ -9,12 +9,12 @@ tags:
   - на-3-5
   - подумать
 type: game
-image_url: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY9mj7KAxt60UqQEpnQPiReSdYqF12q0WMU-W5RLIq2NVS9YYVnlQ_1BZW&s=10
+image_url: /static/covers/Clash-of-Cultures.jpg
 description: Эпическая историческая стратегия (в локализации — «Цивилизация. Эпоха расцвета») о пути народа от скромного поселения до великой империи. Вы исследуете неизведанные земли, изучаете огромное древо технологий, возводите чудеса света, развиваете культуру и сражаетесь с соседями.
 ---
 
 > [!cover]
-> ![Обложка игры](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY9mj7KAxt60UqQEpnQPiReSdYqF12q0WMU-W5RLIq2NVS9YYVnlQ_1BZW&s=10)
+> ![Обложка игры](/static/covers/Clash-of-Cultures.jpg)
 
 > [!badges]
 > > [!badge-green] 👥

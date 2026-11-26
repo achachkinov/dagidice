@@ -8,12 +8,12 @@ tags:
   - для-старта
   - посмеяться
 type: game
-image_url: https://hobbygames.ru/image/data/HobbyWorld/Shadow_Fight/HG/shadow_fight_bitva_demonov.jpg
+image_url: /static/covers/Shadow-Fight-Битва-демонов.jpg
 description: Динамичный карточный филлер по мотивам популярной мобильной игры, где бойцы предугадывают приёмы соперников, собирают комбо и используют силу собственного демона. Серия побед делает вас наследником грозного Титана.
 ---
 
 > [!cover]
-> ![Обложка игры](https://hobbygames.ru/image/data/HobbyWorld/Shadow_Fight/HG/shadow_fight_bitva_demonov.jpg)
+> ![Обложка игры](/static/covers/Shadow-Fight-Битва-демонов.jpg)
 
 > [!badges]
 > > [!badge-green] 👥

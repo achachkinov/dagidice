@@ -8,12 +8,12 @@ tags:
   - на-3-5
   - подумать
 type: game
-image_url: https://hobbygames.ru/image/cache/hobbygames_beta/data/-new/crowd-games/predel/predel-00-1000x416-wm.webp
+image_url: /static/covers/ARCS.webp
 description: Острая и напряжённая космическая стратегия от автора «Корней» Коула Верля, построенная на карточной механике взяток. Игроки перехватывают инициативу, объявляют амбиции, которые определяют правила подсчёта очков в текущем раунде, строят флоты и ведут дерзкие сражения на краю галактики.
 ---
 
 > [!cover]
-> ![Обложка игры](https://hobbygames.ru/image/cache/hobbygames_beta/data/-new/crowd-games/predel/predel-00-1000x416-wm.webp)
+> ![Обложка игры](/static/covers/ARCS.webp)
 
 > [!badges]
 > > [!badge-green] 👥

@@ -7,12 +7,12 @@ tags:
   - подумать
   - логика-и-головоломки
 type: game
-image_url: https://hobbygames.ru/image/data/Gaga/Pixel_Tactics_2/Pixel_Tactics_2.jpg
+image_url: /static/covers/Pixel-Tactics-2.jpg
 description: Вторая часть пиксельных карточных сражений один на один. Игрок как главнокомандующий собирает отряд из уникальных героев и проводит операции, чтобы уничтожить лидера противника.
 ---
 
 > [!cover]
-> ![Обложка игры](https://hobbygames.ru/image/data/Gaga/Pixel_Tactics_2/Pixel_Tactics_2.jpg)
+> ![Обложка игры](/static/covers/Pixel-Tactics-2.jpg)
 
 > [!badges]
 > > [!badge-green] 👥

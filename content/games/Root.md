@@ -10,12 +10,12 @@ tags:
   - подумать
   - популярное
 type: game
-image_url: https://hobbygames.ru/image/cache/hobbygames_beta/data/CrowD_Games/Root/Hobby%20Games/Root-1000x416-wm.jpg
+image_url: /static/covers/Root.jpg
 description: Знаменитая асимметричная стратегия в сказочном лесном королевстве («Корни»). Каждая фракция зверей играет по своим уникальным правилам и побеждает по-своему — индустриальная Маркиса де Коте строит лесопилки, Крылатая династия плетёт интриги, Лесной союз поднимает восстания, а Бродяга выполняет квесты.
 ---
 
 > [!cover]
-> ![Обложка игры](https://hobbygames.ru/image/cache/hobbygames_beta/data/CrowD_Games/Root/Hobby%20Games/Root-1000x416-wm.jpg)
+> ![Обложка игры](/static/covers/Root.jpg)
 
 > [!badges]
 > > [!badge-green] 👥

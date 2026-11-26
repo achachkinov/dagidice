@@ -10,12 +10,12 @@ tags:
   - популярное
   - подумать
 type: game
-image_url: https://hobbygames.ru/image/cache/hobbygames_beta/data/HobbyWorld/Fallout/Fallout_3D_roznica-1000x416-wm.webp
+image_url: /static/covers/Fallout.webp
 description: Атмосферное постапокалиптическое приключение по мотивам знаменитой серии видеоигр. Игроки исследуют радиоактивную Пустошь, выполняют ветвящиеся сюжетные квесты, сражаются с мутантами и рейдерами, собирают крышки и прокачивают характеристики S.P.E.C.I.A.L.
 ---
 
 > [!cover]
-> ![Обложка игры](https://hobbygames.ru/image/cache/hobbygames_beta/data/HobbyWorld/Fallout/Fallout_3D_roznica-1000x416-wm.webp)
+> ![Обложка игры](/static/covers/Fallout.webp)
 
 > [!badges]
 > > [!badge-green] 👥
