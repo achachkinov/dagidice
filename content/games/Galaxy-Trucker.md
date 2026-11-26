@@ -7,12 +7,12 @@ tags:
   - на-3-5
   - посмеяться
 type: game
-image_url: ../static/covers/Galaxy-Trucker.jpg
+image_url: ../static/covers/galaxy-trucker.jpg
 description: Хаотичная и весёлая игра о сборке космических грузовиков в реальном времени. Игроки на скорость строят корабли из тайлов, а затем отправляются в опасные рейсы, где метеориты, пираты и неудачные стыки деталей испытывают их творения на прочность.
 ---
 
 > [!cover]
-> ![Обложка игры](../static/covers/Galaxy-Trucker.jpg)
+> ![Обложка игры](../static/covers/galaxy-trucker.jpg)
 
 > [!badges]
 > > [!badge-green] 👥

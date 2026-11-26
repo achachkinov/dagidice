@@ -8,12 +8,12 @@ tags:
   - для-старта
   - посмеяться
 type: game
-image_url: ../static/covers/Shadow-Fight-Битва-демонов.jpg
+image_url: ../static/covers/shadow-fight-битва-демонов.jpg
 description: Динамичный карточный филлер по мотивам популярной мобильной игры, где бойцы предугадывают приёмы соперников, собирают комбо и используют силу собственного демона. Серия побед делает вас наследником грозного Титана.
 ---
 
 > [!cover]
-> ![Обложка игры](../static/covers/Shadow-Fight-Битва-демонов.jpg)
+> ![Обложка игры](../static/covers/shadow-fight-битва-демонов.jpg)
 
 > [!badges]
 > > [!badge-green] 👥

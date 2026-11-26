@@ -8,12 +8,12 @@ tags:
   - подумать
   - быстрые-партии
 type: game
-image_url: ../static/covers/Radlands.webp
+image_url: ../static/covers/radlands.webp
 description: Динамичная дуэльная карточная стратегия в ярком постапокалиптическом сеттинге. Игроки защищают три своих лагеря, выставляют бойцов на три линии фронта, берегут воду как главный ресурс и разыгрывают разрушительные события, чтобы уничтожить базы соперника.
 ---
 
 > [!cover]
-> ![Обложка игры](../static/covers/Radlands.webp)
+> ![Обложка игры](../static/covers/radlands.webp)
 
 > [!badges]
 > > [!badge-green] 👥

@@ -7,12 +7,12 @@ tags:
   - подумать
   - евро
 type: game
-image_url: ../static/covers/Elfenroads.jpg
+image_url: ../static/covers/elfenroads.jpg
 description: Классика Алана Муна и предшественник «Страны эльфов», где игроки собирают транспорт и прокладывают маршруты через фэнтезийную страну, обгоняя соперников. Побеждает тот, кто первым объедет все города.
 ---
 
 > [!cover]
-> ![Обложка игры](../static/covers/Elfenroads.jpg)
+> ![Обложка игры](../static/covers/elfenroads.jpg)
 
 > [!badges]
 > > [!badge-orange] 👥

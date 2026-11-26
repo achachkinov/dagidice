@@ -10,12 +10,12 @@ tags:
   - для-старта
   - самые-популярные
 type: game
-image_url: ../static/covers/Unmatched.webp
+image_url: ../static/covers/unmatched.webp
 description: Стремительная тактическая игра о схватках самых невероятных героев из мифов, литературы и поп-культуры — от Короля Артура и Алисы из Страны чудес до Медузы Горгоны и Шерлока Холмса. У каждого бойца своя уникальная колода карт и стиль боя на арене.
 ---
 
 > [!cover]
-> ![Обложка игры](../static/covers/Unmatched.webp)
+> ![Обложка игры](../static/covers/unmatched.webp)
 
 > [!badges]
 > > [!badge-green] 👥

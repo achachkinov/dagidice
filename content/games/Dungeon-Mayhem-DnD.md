@@ -8,12 +8,12 @@ tags:
   - на-3-5
   - посмеяться
 type: game
-image_url: ../static/covers/Dungeon-Mayhem-DnD.jpg
+image_url: ../static/covers/dungeon-mayhem-dnd.jpg
 description: Быстрая и весёлая карточная битва во вселенной Dungeons & Dragons. Игроки выбирают героев, разыгрывают атаки, защиты и коварные уловки, чтобы первыми избавиться от соперников и остаться последним выжившим в подземелье.
 ---
 
 > [!cover]
-> ![Обложка игры](../static/covers/Dungeon-Mayhem-DnD.jpg)
+> ![Обложка игры](../static/covers/dungeon-mayhem-dnd.jpg)
 
 > [!badges]
 > > [!badge-green] 👥
