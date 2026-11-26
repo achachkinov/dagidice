@@ -8,12 +8,12 @@ tags:
   - на-3-5
   - посмеяться
 type: game
-image_url: https://tesera.ru/images/items/1308296,3/1000x1000xpa/photo1.png
+image_url: https://hobbygames.ru/image/data/Wizarsds_Of_the_Coast/Dungeon_Mayhem.jpg
 description: Быстрая и весёлая карточная битва во вселенной Dungeons & Dragons. Игроки выбирают героев, разыгрывают атаки, защиты и коварные уловки, чтобы первыми избавиться от соперников и остаться последним выжившим в подземелье.
 ---
 
 > [!cover]
-> ![Обложка игры](https://tesera.ru/images/items/1308296,3/1000x1000xpa/photo1.png)
+> ![Обложка игры](https://hobbygames.ru/image/data/Wizarsds_Of_the_Coast/Dungeon_Mayhem.jpg)
 
 > [!badges]
 > > [!badge-green] 👥

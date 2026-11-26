@@ -6,12 +6,12 @@ tags:
   - на-3-5
   - подумать
 type: game
-image_url: https://tesera.ru/images/items/22596,3/1000x1000xpa/photo1.jpg
+image_url: https://hobbygames.ru/image/data/HobbyWorld/Eminent_Domain/Eminent_Domain_3D_box.jpg
 description: Научно-фантастическая стратегия на колодостроении и освоении галактики. Игроки развивают молодую цивилизацию через карты действий — исследуют планеты, колонизируют их, ведут торговлю, производят ресурсы и строят флот, соревнуясь за влияние и победные очки.
 ---
 
 > [!cover]
-> ![Обложка игры](https://tesera.ru/images/items/22596,3/1000x1000xpa/photo1.jpg)
+> ![Обложка игры](https://hobbygames.ru/image/data/HobbyWorld/Eminent_Domain/Eminent_Domain_3D_box.jpg)
 
 > [!badges]
 > > [!badge-green] 👥

@@ -8,12 +8,12 @@ tags:
   - подумать
   - популярное
 type: game
-image_url: https://tesera.ru/images/items/1067406,3/1000x1000xpa/photo1.png
+image_url: https://hobbygames.ru/image/data/HobbyWorld/Civilization_Noviy_Rassvet/Civilization_Newdawn.jpg
 description: Стратегическая игра по мотивам компьютерной Civilization, построенная на модульном поле и развитии державы. Игроки исследуют земли, основывают города, развивают науку и культуру, строят чудеса света и ведут дипломатию или войны, чтобы первыми выполнить условия победы.
 ---
 
 > [!cover]
-> ![Обложка игры](https://tesera.ru/images/items/1067406,3/1000x1000xpa/photo1.png)
+> ![Обложка игры](https://hobbygames.ru/image/data/HobbyWorld/Civilization_Noviy_Rassvet/Civilization_Newdawn.jpg)
 
 > [!badges]
 > > [!badge-green] 👥

@@ -7,12 +7,12 @@ tags:
   - подумать
   - логика-и-головоломки
 type: game
-image_url: https://tesera.ru/images/items/1451456,3/1000x1000xpa/photo1.jpg
+image_url: https://hobbygames.ru/image/data/-new/gaga/pixel-tactics/legends/hg/pixel-tactics-legends-00.jpg
 description: Самостоятельный набор серии дуэльных карточных сражений с пиксельными армиями. В коробке собраны мини-дополнения Seven Sisters, Price of Victory и Argent University, а также переработанные знакомые герои.
 ---
 
 > [!cover]
-> ![Обложка игры](https://tesera.ru/images/items/1451456,3/1000x1000xpa/photo1.jpg)
+> ![Обложка игры](https://hobbygames.ru/image/data/-new/gaga/pixel-tactics/legends/hg/pixel-tactics-legends-00.jpg)
 
 > [!badges]
 > > [!badge-green] 👥

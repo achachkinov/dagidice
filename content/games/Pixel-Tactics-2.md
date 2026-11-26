@@ -7,12 +7,12 @@ tags:
   - подумать
   - логика-и-головоломки
 type: game
-image_url: https://tesera.ru/images/items/208654,3/1000x1000xpa/photo1.png
+image_url: https://hobbygames.ru/image/data/Gaga/Pixel_Tactics_2/Pixel_Tactics_2.jpg
 description: Вторая часть пиксельных карточных сражений один на один. Игрок как главнокомандующий собирает отряд из уникальных героев и проводит операции, чтобы уничтожить лидера противника.
 ---
 
 > [!cover]
-> ![Обложка игры](https://tesera.ru/images/items/208654,3/1000x1000xpa/photo1.png)
+> ![Обложка игры](https://hobbygames.ru/image/data/Gaga/Pixel_Tactics_2/Pixel_Tactics_2.jpg)
 
 > [!badges]
 > > [!badge-green] 👥

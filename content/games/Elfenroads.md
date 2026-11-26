@@ -7,12 +7,12 @@ tags:
   - подумать
   - евро
 type: game
-image_url: https://tesera.ru/images/items/26648,3/1000x1000xpa/photo1.jpg
+image_url: https://tesera.ru/images/items/26648,3/photo1.jpg
 description: Классика Алана Муна и предшественник «Страны эльфов», где игроки собирают транспорт и прокладывают маршруты через фэнтезийную страну, обгоняя соперников. Побеждает тот, кто первым объедет все города.
 ---
 
 > [!cover]
-> ![Обложка игры](https://tesera.ru/images/items/26648,3/1000x1000xpa/photo1.jpg)
+> ![Обложка игры](https://tesera.ru/images/items/26648,3/photo1.jpg)
 
 > [!badges]
 > > [!badge-orange] 👥

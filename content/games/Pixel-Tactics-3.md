@@ -7,12 +7,12 @@ tags:
   - подумать
   - логика-и-головоломки
 type: game
-image_url: https://tesera.ru/images/items/276354,3/1000x1000xpa/photo1.jpg
+image_url: https://hobbygames.ru/image/data/Gaga/Pixel_Tactics_3/pixelmain.jpg
 description: Третья часть пиксельной тактической дуэли с новыми отрядами и способностями. Игроки выстраивают боевой порядок и разыгрывают карты, чтобы перехитрить и одолеть лидера соперника.
 ---
 
 > [!cover]
-> ![Обложка игры](https://tesera.ru/images/items/276354,3/1000x1000xpa/photo1.jpg)
+> ![Обложка игры](https://hobbygames.ru/image/data/Gaga/Pixel_Tactics_3/pixelmain.jpg)
 
 > [!badges]
 > > [!badge-green] 👥
